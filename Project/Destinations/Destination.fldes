@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="mc-wayne.zendesk.com"
+  User="MyAccountId"
+  Password=""
+  Directory="oauth/authorizations/new"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="zendesk"
+  ClickUrl="https://mc-wayne.zendesk.com"
+  DefaultCategory="4404288381075"
+  DefaultSection="4404288382739"
+  PermissionGroup="3012534"></CatapultDestination>
